@@ -1,0 +1,19 @@
+{
+  "name": "try-sails",
+  "version": "1.0.0",
+  "description": "Testing the sails mvc node framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cwkingjr/try-sails.git"
+  },
+  "author": "Chuck King",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cwkingjr/try-sails/issues"
+  },
+  "homepage": "https://github.com/cwkingjr/try-sails#readme"
+}
